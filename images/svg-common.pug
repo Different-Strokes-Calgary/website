@@ -1,0 +1,164 @@
+-
+  function captureBlock(block) {
+    const original_html = pug_html
+    pug_html = ''
+    block()
+    const result_html = pug_html
+    pug_html = original_html
+    return result_html
+  }
+
+mixin addBlock(type, name, args, merge)
+  -
+    const blockTypes = (global.blockTypes = global.blockTypes || {})
+    const blocks = (blockTypes[type] = blockTypes[type] || {})
+    blocks[name] = blocks[name] && merge ? blocks[name] : {blocks: []}
+    blocks[name] = {
+        name,
+        args: {...blocks[name].args, ...args},
+        attributes: {...blocks[name].attributes, ...attributes},
+        blocks: [...blocks[name].blocks, captureBlock(block)]
+    }
+
+//-
+  Create a symbol
+  This is used like a symbol tag. If height is excluded, width is used for both. eg.
+  +addBody('name', 5)
+    path(d='...')
+mixin addBody(name, width, height)
+  -
+    attributes['class'] = attributes['class'] || name
+    attributes['id'] = attributes['id'] || name
+  +addBlock('body', name, {width: width, height: height || width})&attributes(attributes)
+    block
+
+//- Add a tag to the def section
+mixin addDef(tag, name)
+  -
+    attributes['class'] = attributes['class'] || name
+    attributes['id'] = attributes['id'] || name
+  +addBlock('defs', name, {tag})&attributes(attributes)
+    block
+
+//-
+  Add a global style rule for the target SVG file eg:
+  +addStyle(selector)(cssProperty=value cssProperty=value [...])
+mixin addStyle(selector)
+  - const styleAttrib = attributes
+  +addBlock('style', selector, {}, true)
+    each value, key in styleAttrib
+      | #{ key }: #{ value };
+    block
+
+mixin addSelfClip(name)
+  -
+    attributes['id'] = name
+    const clipName = `selfClipPath${name}`
+    attributes['class'] = attributes['class'] || name
+
+
+  +addDef('clipPath', clipName)
+    use(href=`#${name}`)
+  g(id=name, clip-path=`url(#${clipName})`)&attributes(attributes)
+    block
+
+//-
+  Output the text for all the stored style rules.
+  This does not include the <style> tags!
+mixin getStyles
+  -
+    const type = 'style'
+    const blockTypes = (global.blockTypes = global.blockTypes || {})
+    const blocks = (blockTypes[type] = blockTypes[type] || {})
+
+  each block in blocks
+    | #{ block.name } {
+    each pugBlock in block.blocks
+      | !{ pugBlock }
+    | }
+
+//-
+  Output the text for all the stored style rules.
+  This does not include the <defs> tag, but does include the item's tags
+mixin getDefs
+  -
+    const type = 'defs'
+    const blockTypes = (global.blockTypes = global.blockTypes || {})
+    const blocks = (blockTypes[type] = blockTypes[type] || {})
+
+  each block in blocks
+    #{block.args.tag}&attributes(block.attributes)
+      each pugBlock in block.blocks
+        | !{ pugBlock }
+
+mixin getBodySymbols
+  -
+    const type = 'body'
+    const blockTypes = (global.blockTypes = global.blockTypes || {})
+    const blocks = (blockTypes[type] = blockTypes[type] || {})
+
+  each block in blocks
+    symbol(id=block.name, viewBox=`0 0 ${block.args.width} ${block.args.height}`)&attributes(attributes)
+      each pugBlock in block.blocks
+        | !{ pugBlock }
+
+mixin svg
+  svg(xmlns:xlink='http://www.w3.org/1999/xlink', xmlns='http://www.w3.org/2000/svg')&attributes(attributes)
+    style
+      +getStyles
+    defs
+      +getDefs
+      +getBodySymbols
+    block
+
+mixin svgUseBody(name, width, height)
+  svg(
+    xmlns:xlink='http://www.w3.org/1999/xlink',
+    xmlns='http://www.w3.org/2000/svg',
+    viewBox=`0 0 ${width} ${height}`
+  )&attributes(attributes)
+    title #{ attributes.title || `${name}` }
+    use(href=`#${name}`)
+
+mixin jsonGetGenericBlock(type)
+  -
+    const blockTypes = (global.blockTypes = global.blockTypes || {})
+    const blocks = Object.values(blockTypes[type] = blockTypes[type] || {})
+    const esc = JSON.stringify
+
+  |
+  | !{ esc(type) }: {
+  each block, indexRule in blocks
+    |
+    | !{ esc(block.name) }: {
+    |
+    | "args": !{ esc(block.args) },
+    | "attributes": !{ esc(block.attributes) }
+    //-
+      This is a lot of extra/duplicate data. Probably not ever needed
+      | , "blocks": [
+      each pugBlock, indexDef in block.blocks
+        | !{JSON.stringify(pugBlock)}
+        if indexDef < block.blocks.length - 1
+          | ,
+      | ]
+    | }
+    if indexRule < blocks.length - 1
+      | ,
+  |
+  | }
+
+mixin svgMetadataJson
+  | {
+  +jsonGetGenericBlock('style')
+  | ,
+  +jsonGetGenericBlock('defs')
+  | ,
+  +jsonGetGenericBlock('body')
+  | }
+
+mixin escapeBlock
+  | #{ captureBlock(block) }
+
+mixin escapeReplaceBlock(search, replace)
+  | !{ captureBlock(block).replaceAll(search, ()=>replace) }

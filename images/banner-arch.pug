@@ -1,0 +1,62 @@
+include svg-common
+
++addDef('linearGradient', 'gradientWall')(gradientTransform='rotate(90)')
+  stop(offset='1%', stop-color='#1d1a100d')
+  stop(offset='100%', stop-color='#3a3b39FF')
+
++addDef('linearGradient','gradientFloor')(gradientTransform='rotate(90)')
+  stop(offset='10%', stop-color='#1f1f100d')
+  stop(offset='100%', stop-color='#222220FF')
+
++addDef('filter','filterAntiBanding')(
+  color-interpolation-filters='sRGB',
+  x='-20%',
+  y='-20%',
+  width='140%',
+  height='140%'
+)
+  feGaussianBlur(stdDeviation='5', in='SourceGraphic')
+
++addBody('Banner-Arch', 1093, 413)
+  rect(width='100%', height='100%', fill='#1d1d1b')
+
+  //+addSelfClip('backgroundWall')
+  path(
+    d='M0 0v381h1093.3V0Z',
+    fill='url(#gradientWall)',
+    stroke='none',
+    stroke-width='1',
+    filter='url(#filterAntiBanding)'
+  )
+  +addSelfClip('backgroundFloor')
+    path(d='M0 381v32h1093.3v-32z', fill='url(#gradientFloor)', stroke='none', stroke-width='1')
+
+  path(d='m102.5 381-21 31.7h29.8l12.5-31.7z', fill='#a10013')
+  path(d='m131.4 381-8.7 31.7h28.4l1.7-31.7z', fill='#b15300')
+  path(d='m160.3 381 1.8 31.7H191l-9.3-31.3v-.4z', fill='#bdae00')
+  path(d='m189.3 381 12.3 31.7h28l-19.2-31.5v-.2z', fill='#05740f')
+  path(d='M217.8 381v.2l22 31.5h27.8l-28.3-31.7z', fill='#195488')
+  path(d='m247.1 381 31.3 31.7h27.5l-37.3-31.7z', fill='#4d1761')
+
+  path(
+    d='M406 114.4a159.6 159.6 0 0 0-159.4 159.4V381H268V273.8c0-76.2 62-138 138.1-138h530.8a138.2 138.2 0 0 1 135.2 138V381h21.3V273.8c0-86.8-69.7-157.7-156.2-159.4h-531z',
+    fill='#662383'
+  )
+  path(
+    d='M0 28.4v21.3h10a92.9 92.9 0 0 1 92.7 92.8v238.3l-.4.6h21.4l.3-.8V142.5c0-63-51.2-114.1-114-114.1Z',
+    fill='#e30613'
+  )
+  path(d='M160.3 0v381h21.3V0Z', fill='#ffed00')
+  path(
+    d='M0 .7V22h15.3c64 0 116.2 52.1 116.2 116.2v242.5l-.2.6h21.5V138.2C152.8 62.4 91 .7 15.3.7Z',
+    fill='#f39200'
+  )
+  path(
+    d='M402.1 54.7c-117.5 0-213 95.6-213 213v112.9l.3.8h21V267.7A192 192 0 0 1 402 76h691.2V54.7Z',
+    fill='#009640'
+  )
+  path(
+    d='M404.3 84.5A186.7 186.7 0 0 0 217.8 271v110.2h21.7l-.3-.4V271c0-91 74-165.1 165.1-165.1h689V84.5Z',
+    fill='#1d70b8'
+  )
+  text(x='352', y='288', font-size='56', font-family='DSCLogo', fill='#fff') Different Strokes Calgary

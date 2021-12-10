@@ -1,0 +1,13 @@
+{
+  "name": "@dsc/website",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./package.js",
+  "packageManager": "pnpm@6.21.0",
+  "private": true,
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@dsc/template": "workspace:^0.0.1",
+    "svelte": "^3.34.0"
+  }
+}

@@ -1,0 +1,55 @@
+include svg-common
+
++addDef('linearGradient', 'linearGradientZigzagRed')(x1='2%', y1='14%', x2='54%', y2='45%')
+  stop(offset='0%', stop-color='#f39200')
+  stop(offset='100%', stop-color='#e30613')
+
++addDef('linearGradient', 'linearGradientZigzagOrange')(x1='2%', y1='14%', x2='54%', y2='45%')
+  stop(offset='0%', stop-color='#ffed00')
+  stop(offset='100%', stop-color='#f39200')
+
++addDef('linearGradient', 'linearGradientZigzagYellow')(x1='2%', y1='14%', x2='54%', y2='45%')
+  stop(offset='0%', stop-color='#009640')
+  stop(offset='100%', stop-color='#ffed00')
+
++addDef('linearGradient', 'linearGradientZigzagGreen')(x1='2%', y1='14%', x2='54%', y2='45%')
+  stop(offset='0%', stop-color='#1d70b8')
+  stop(offset='100%', stop-color='#009640')
+
++addDef('linearGradient', 'linearGradientZigzagBlue')(x1='2%', y1='14%', x2='54%', y2='45%')
+  stop(offset='0%', stop-color='#662383')
+  stop(offset='100%', stop-color='#1d70b8')
+
++addDef('linearGradient', 'linearGradientZigzagViolet')(x1='2%', y1='14%', x2='54%', y2='45%')
+  stop(offset='0%', stop-color='#e30613')
+  stop(offset='100%', stop-color='#662383')
+
++addDef('g', 'Zigzag')
+  path#Zigzag-Top(d='M0 0h69.7L631 256.9v31.9z')
+  path#Zigzag-Mid(d='m0 31.9 123 44V43.2L0 0Z', transform='matrix(1 0 0 -1 507.993 332.768)')
+  path#Zigzag-Bottom(d='M0 31.9 242 120V88.2L0 0Z', transform='translate(507.993 300.881)')
+
++addDef('clipPath', 'clipToBackground')
+  use(href='#Background', x='0', y='0', width='100%', height='100%')
+
++addBody('Banner-Arch', 1080, 411)
+  rect#Background(fill='#1d1d1b', height='100%', width='100%')
+  g#Zigzags(clip-path='url(#clipToBackground)')
+    use#ZigzagRed(href='#Zigzag', fill='url(#linearGradientZigzagRed)', x='330')
+    use#ZigzagOrange(href='#Zigzag', fill='url(#linearGradientZigzagOrange)', x='330', y='-47')
+    use#ZigzagYellow(href='#Zigzag', fill='url(#linearGradientZigzagYellow)', x='330', y='-94')
+    use#ZigzagGreen(href='#Zigzag', fill='url(#linearGradientZigzagGreen)', x='330', y='-141')
+    use#ZigzagBlue(href='#Zigzag', fill='url(#linearGradientZigzagBlue)', x='330', y='-188')
+    use#ZigzagViolet(href='#Zigzag', fill='url(#linearGradientZigzagViolet)', x='330', y='-235')
+  text(
+    x='262',
+    y='155',
+    font-family='DSCLogo',
+    font-size='64',
+    fill='#fff',
+    style='text-align: center',
+    text-anchor='middle'
+  )
+    tspan(x='262', y='155') Different
+    tspan(x='262', y='235') Strokes
+    tspan(x='262', y='315') Calgary
