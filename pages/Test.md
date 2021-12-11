@@ -8,9 +8,15 @@
 GH Pages Publish
 
 {#await fetchImage}
+
 ...waiting
+
 {:then data}
+
 {data}
+
 {:catch error}
+
 An error occurred!
+
 {/await}
