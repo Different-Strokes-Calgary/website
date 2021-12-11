@@ -14,7 +14,12 @@ jobs:
         with: 
           repository: Different-Strokes-Calgary/website-code
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
-
+      
+      - name: Reconfigure git to use HTTP authentication
+        run: >
+          git config --global url."https://github.com/".insteadOf
+          ssh://git@github.com/
+      
       - name: Pull & update submodules recursively
         run: |
           git submodule update --init --recursive
