@@ -1,9 +1,11 @@
 <script>
 	const fetchImage = (async () => {
-		const response = await fetch('https://calendar.google.com/calendar/ical/differentstrokesyyc%40gmail.com/public/basic.ics');
-    return await response.json()
+		const response = await fetch('/schedule.ics');
+    return await response.text()
 	})()
 </script>
+
+GH Pages Publish
 
 {#await fetchImage}
 
@@ -11,7 +13,7 @@
 
 {:then data}
 
-{data.message}
+{data}
 
 {:catch error}
 
