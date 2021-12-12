@@ -45,3 +45,6 @@ Members must join Swim Alberta ($37 payable to the Different Strokes Calgary Mas
 
 The Swim Alberta/Canada fee collected by Swim Alberta for $37 includes club/swim/coach registration and
 insurance for our swim club.
+
+# Test
+This test page was updated with new fonts
