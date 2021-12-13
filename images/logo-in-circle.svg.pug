@@ -3,3 +3,13 @@ include svg-common
 +addBody('Logo-in-Circle', 672)
   circle.Background(fill='var(--logo-background-color)', cx='336', cy='336', r='336')
   use(href='#Logo', height='412', width='564', x='49', y='158')
+
++svg
+  style
+    .
+      svg {
+        --logo-background-color: '#fff';
+      }
+
+
+  use(href='#Logo-in-Circle')
