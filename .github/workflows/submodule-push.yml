@@ -14,6 +14,7 @@ jobs:
         with: 
           repository: Different-Strokes-Calgary/website-code
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
+          ssh-key: ${{ secrets.DSC_SSH }}
           submodules: recursive
       
       - name: Pull & update submodules recursively
