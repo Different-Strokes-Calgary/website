@@ -19,7 +19,7 @@ jobs:
       
       - name: Pull & update submodules recursively
         run: |
-          git submodule update --recursive --remote
+          git submodule update --recursive --remote --checkout
       - name: Commit
         run: |
           git config user.email "actions@github.com"
