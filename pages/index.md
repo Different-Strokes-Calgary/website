@@ -16,14 +16,18 @@ Swim practices are at Repsol Sports Centre (formerly Talisman Sports Centre), 22
 
 ## Spring Swim Times
 
+```
     Fri 7:00 – 8:00 pm @ Repsol Sports Centre
     Sun Noon – 1:00pm @ Repsol Sports Centre
+```
 
 ## Summer Swim Times (July 4th)
 
+```
     Wed 6:00 – 7:00 pm @ Repsol Sports Centre
     Fri 7:00 – 8:00pm @ Repsol Sports Centre
     Sun 9:00 – 10:00am @ Bowview Outdoor Pool
+```
 
 - There are no swims on long weekends. Times may change, check with the Swim Calendar on the home page for up to date swims.
 
@@ -45,6 +49,3 @@ Members must join Swim Alberta ($37 payable to the Different Strokes Calgary Mas
 
 The Swim Alberta/Canada fee collected by Swim Alberta for $37 includes club/swim/coach registration and
 insurance for our swim club.
-
-# Test
-This test page was updated with new fonts
