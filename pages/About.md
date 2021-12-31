@@ -2,7 +2,7 @@
 
 ## Mission
 
-Different Strokes Calgary (DSC) is a non-profit, volunteer swim club inclusive of lesbians, gay men, bisexuals and their friends. DSC is dedicated to the master swim program philosophy of “fun and fitness for life” in an environment that is both positive and supportive. To this end, DSC attempts to provide a recreational, competitive and socially active atmosphere in which members may, at their option, participate. (Also see our bylaws.)
+Different Strokes Calgary (DSC) is a non-profit, volunteer swim club inclusive of LGBTQ+ and their friends. DSC is dedicated to the master swim program philosophy of “fun and fitness for life” in an environment that is both positive and supportive. To this end, DSC attempts to provide a recreational, competitive and socially active atmosphere in which members may, at their option, participate. (Also see our bylaws.)
 
 ## Club History
 
@@ -22,7 +22,7 @@ In 2015 DSC started swimming additionally on weeknights at the Talisman Centre o
 
 DSC is a member of Swim Alberta (and of course FINA), as well as the International Gay and Lesbian Aquatics (IGLA), a governing body for swimming, diving, water polo and synchronized swimming. To date, club members have attended swim meets in different parts of North America, i.e. Washington DC, Seattle, San Francisco, and Atlanta to name a few). Europe destinations have included Paris, Reykjavik, Amsterdam, and Copenhagen. Locally we attend meets in Edmonton, Calgary and Vancouver.
 
-10Every four years the Gay Games and /or the Outgames feature a five day swimming competition with participants from all around the world. Our past participation in these games were in Sydney, 2002, Chicago and Montréal in 2006, and Copenhagen in 2010.
+Every four years the Gay Games and/or the Outgames feature a five day swimming competition with participants from all around the world. Our past participation in these games were in Sydney 2002, Chicago and Montréal in 2006, and Copenhagen in 2010.
 
 Dan MacGregor still spends some of his time coaching the beginner swimmers and can still sometimes be seen in a swimsuit. Bill Culham is our current Head Coach and creates some pretty imaginative workouts that are fun to swim.
 
