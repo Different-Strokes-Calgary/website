@@ -8,26 +8,19 @@ Repsol Sports Centre (formerly Talisman Sports Centre):
 
 2225 Macleod Trail South ([see map](https://goo.gl/maps/zBu14G8A3LPizUTZ7))
 
-## Spring Swim Times
+## Winter Swim Times
  - Fri 7:00 -8:00 pm @ Repsol Sports Centre
  - Sun Noon – 1:00 pm @ Repsol Sports Centre
 
-## Summer Swim Times
- - Wed 6:00 -7:00 pm @ Repsol Sports Centre
- - Fri 7:00 – 8:00 pm @ Repsol Sports Centre
- - Sun 9:00am – 10:00am @ Bowview Outdoor Pool
-
->_**Note:** There are no swims on long weekends. Times may change, check with the Swim Calendar on the home page for up to date swims._
-
-There are special pool entering rules. You MUST email info@differentstrokescalgary.org before showing up at the facility.
+:star: There are no swims on long weekends. Times may change, check with the Swim [Schedule](Schedule.md) for up to date swims.
 
 # About the Workouts
 
 Different Strokes Calgary accommodates both recreational and competitive swimmers. Coaching is offered to assist with technique and fitness development. However, swimming at one’s own pace and comfort level is always encouraged.
 
-## Beginning Swimmers
+## Beginner Swimmers
 
-Beginning swimmers are encouraged to come out and learn how to swim. Our coaching staff are top notch with many years of teaching and coaching experience. They enjoy introducing new swimmers to the sport.
+Beginner swimmers are encouraged to come out and improve their swimming technique. Our coaching staff are top notch with many years of teaching and coaching experience. They enjoy introducing new swimmers to the sport. However, we don't teach how to swim and we expect new swimmers to know the basics already.
 
 ## Competitive Swimmers
 
@@ -35,7 +28,7 @@ Participants with a competitive outlook will benefit from a structured and progr
 
 ## What to Bring
 
-Swimmers will need to bring a swimsuit and towel. Goggles and a swim cap are highly recommended although not required. You can bring your own lock for the locker room. It is recommended that valuables be left at home or brought with you on the pool deck.
+Swimmers will need to bring a swimsuit and towel. Goggles are requied and a swim cap is highly recommended. You can bring your own lock for the locker room. It is recommended that valuables be left at home or brought with you on the pool deck.
 
 ## What to Expect
 
@@ -54,7 +47,7 @@ Swim practices focus on swimming technique and building swim fitness. Technique 
 In order to best facilitate smooth, cooperative, and fun swim workouts, there are some time-honoured rules of the pool that we respect:
 
 - Help set up the pool for workouts. Put in lane ropes, get out the kick boards, pull-buoys, etc.
-- If you are late, warm up on deck or in a vacant lane, then start the workout at the same point the rest of the swimmers in your lane have reached.
+- If you are late, start the workout at the same point the rest of the swimmers in your lane have reached.
 - Swim in a circle within each lane, staying off the centre line. Usually, alternate lanes swim clockwise and counterclockwise. This is so you will be swimming alongside people going in the same direction, which helps reduce collisions.
 - Within a lane, swimmers should arrange themselves for each set with the fastest swimmer leading and the slowest at the back. It is the lead swimmer’s duty to ensure that the lane keeps to the pace time.
 - Allow 5 or 10 seconds between you and the swimmer ahead of you when swimming repeats.
