@@ -2,7 +2,7 @@
 
 ## Mission
 
-Different Strokes Calgary (DSC) is a non-profit, volunteer swim club inclusive of LGBTQ+ and their friends. DSC is dedicated to the master swim program philosophy of “fun and fitness for life” in an environment that is both positive and supportive. To this end, DSC attempts to provide a recreational, competitive and socially active atmosphere in which members may, at their option, participate. (Also see our [bylaws](../assets/bylaws.pdf).)
+Different Strokes Calgary (DSC) is a non-profit, volunteer swim club inclusive of LGBTQ+ and their friends. DSC is dedicated to the master swim program philosophy of “fun and fitness for life” in an environment that is both positive and supportive. To this end, DSC attempts to provide a recreational, competitive and socially active atmosphere in which members may, at their option, participate. (Also see our [bylaws](/bylaws.pdf).)
 
 ## Club History
 
