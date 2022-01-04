@@ -40,4 +40,3 @@ All members must register using the registration [form](https://www.jotform.com/
 FYI. The Swim Alberta/Canada fee collected by Swim Alberta includes club/swim/coach registration and
 insurance for our swim club.
 
-:-) :heart:
