@@ -14,14 +14,7 @@ positive and supportive.
 
 Swim practices are at Repsol Sports Centre (formerly Talisman Sports Centre), 2225 Macleod Trail South
 
-## Winter Swim Times
-
-```
-    Fri 6:00pm – 7:00pm @ Repsol Sports Centre
-    Sun 6:00pm – 7:00pm @ Repsol Sports Centre
-```
-
-:star: There are no swims on long weekends. Times may change, check the Swim [Schedule](Schedule.md) for up to date swims.
+Check the Swim [Schedule](Schedule.md) for up to date swims.
 
 For any new swimmers, please send an email [info@differentstrokescalgary.org](mailto:info@differentstrokescalgary.org) before showing up at the facility.
 
