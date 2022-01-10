@@ -9,8 +9,9 @@ Repsol Sports Centre (formerly Talisman Sports Centre):
 2225 Macleod Trail South ([see map](https://goo.gl/maps/zBu14G8A3LPizUTZ7))
 
 ## Winter Swim Times
- - Fri 6:00pm - 7:00pm @ Repsol Sports Centre
- - Sun 6:00pm - 7:00pm @ Repsol Sports Centre
+ - Thr 6:00pm @ Repsol Sports Centre (NEW, may not be every month, check live swim [schedule](Schedule)) 
+ - Fri 6:00pm @ Repsol Sports Centre
+ - Sun 6:00pm @ Repsol Sports Centre
 
 :star: There are no swims on long weekends. Times may change, check with the Swim [Schedule](Schedule) for up to date swims.
 
