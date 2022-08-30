@@ -4,14 +4,13 @@
 
 Swim practices are at:
 
-Repsol Sports Centre (formerly Talisman Sports Centre):
+MNP Community & Sports Centre (formerly Repsol Sports Centre):
 
-2225 Macleod Trail South ([see map](https://goo.gl/maps/zBu14G8A3LPizUTZ7))
+2225 Macleod Trail South ([see map](https://goo.gl/maps/F52emnWt6MQroyK18))
 
 ## Winter Swim Times
- - Thr 6:00pm @ Repsol Sports Centre (NEW, may not be every month, check live swim [schedule](Schedule)) 
- - Fri 6:00pm @ Repsol Sports Centre
- - Sun 6:00pm @ Repsol Sports Centre
+ - Fri 6:00pm @ MNP Community & Sports Centre
+ - Sun 6:00pm @ MNP Community & Sports Centre
 
 :star: There are no swims on long weekends. Times may change, check with the Swim [Schedule](Schedule) for up to date swims.
 
