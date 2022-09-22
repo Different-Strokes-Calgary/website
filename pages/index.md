@@ -23,8 +23,7 @@ For any new swimmers, please send an email [info@differentstrokescalgary.org](ma
 All members must register using the registration [form](https://form.jotform.com/222410666444250).
 
 - An annual pass for $350 (includes Swim AB registration, GST). This pass covers from September through August.
-- Drop-in blocks of 10 for $141 (includes Swim AB, GST). Swimmers using the drop in fee structure will receive
-  emails from the the club when their balance falls below $20. 10 passes must
+- Drop-in blocks of 10 for $141 (includes Swim AB, GST). 10 passes must
   be used within 12 months of purchase. Subsequent passes in the same season will be just $100.
 - For students in the current academic year starting September, with a valid Student ID, there is a 50% discount
   on the annual fee. The Swim Alberta fee remains full price, since that is set by Swim Alberta. Purchase price for
