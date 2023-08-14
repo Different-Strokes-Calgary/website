@@ -18,7 +18,7 @@ In 1997, DSC averaged approximately 20 swimmers per practice, and we now have a 
 
 In 2007 DSC moved Sunday practices to SAIT while Wednesdays remained the YWCA. In September 2007 the team moved both practices to SAIT and began swimming Thursdays and Sundays.
 
-In 2015 DSC started swimming additionally on weeknights at the Talisman Centre on Wednesdays. Starting fall of 2016, both practices moved to Repsol Sports Centre (formerly Talisman Sports Centre) and will swim on Fridays and Sundays.
+In 2015 DSC started swimming additionally on weeknights at the Talisman Centre on Wednesdays. Starting fall of 2016, both practices moved to Repsol Sports Centre (formerly Talisman Sports Centre) and will swim on Fridays and Sundays. Currently in 2023, DSC continues to swims twice a week (Fri & Sun) at the MNP Community & Sports Centre (formerly Repsol Sports Centre).
 
 DSC is a member of Swim Alberta (and of course FINA), as well as the International Gay and Lesbian Aquatics (IGLA), a governing body for swimming, diving, water polo and synchronized swimming. To date, club members have attended swim meets in different parts of North America, i.e. Washington DC, Seattle, San Francisco, and Atlanta to name a few). Europe destinations have included Paris, Reykjavik, Amsterdam, and Copenhagen. Locally we attend meets in Edmonton, Calgary and Vancouver.
 
