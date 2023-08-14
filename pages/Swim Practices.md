@@ -3,13 +3,14 @@
 ## Location
 
 Swim practices are at:
-
-MNP Community & Sports Centre (formerly Repsol Sports Centre):
-
+- MNP Community & Sports Centre (formerly Repsol Sports Centre):
 2225 Macleod Trail South ([see map](https://goo.gl/maps/F52emnWt6MQroyK18))
+- Killarney Aquatic & Recreation Centre:
+1919 29St SW ([see map](https://goo.gl/maps/7rUB9sq2K3D6pd5J7))
 
 ## Winter Swim Times
  - Fri 6:00pm @ MNP Community & Sports Centre
+ - Fri 7:30pm @ Killarney Aquatic & Recreation Centre
  - Sun 6:00pm @ MNP Community & Sports Centre
 
 :star: There are no swims on long weekends. Times may change, check with the Swim [Schedule](Schedule) for up to date swims.
