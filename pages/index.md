@@ -10,6 +10,9 @@ inclusive of LGBTQ+ swimmers and their supporters, dedicated to the master swim
 program philosophy of “fun and fitness for life” in an environment that is both
 positive and supportive.
 
+# Open House
+Join us for a free hours of swimming at MNP Community & Sports Centre on Sunday, September 10, 2023 @ 6pm. There will be coaches on decks for a lite workout, and we may even have some pool games planned. Greeters will be at the entrance guiding people into the facility if it's your first time.
+
 # Swim Practices
 
 Swim practices are at:
