@@ -29,7 +29,7 @@ All members must register using the registration [form](https://form.jotform.com
 
 - An annual pass for the 2023-2024 season is $350 (includes Swim AB registration, GST). This pass covers from September 2023 through August 2024.
 - Drop-in blocks of 10 for $144 (includes Swim AB, GST). 10 passes must be used within 12 months of purchase. Subsequent passes in the same season will be just $100.
-- For students in the current academic year starting September, with a valid Student ID, there is a 50% discount on the annual fee. The Swim Alberta fee remains full price, since that is set by Swim Alberta. Purchase price for student annual pass is $195.50 (includes Swim AB, GST).
+- For students in the current academic year starting September, with a valid Student ID, there is a 50% discount on the annual fee. The Swim Alberta fee remains full price, since that is set by Swim Alberta. Purchase price for student annual pass is $197 (includes Swim AB, GST).
 
 FYI. The Swim Alberta/Canada fee collected by Swim Alberta includes club/swim/coach registration and insurance for our swim club.
 
