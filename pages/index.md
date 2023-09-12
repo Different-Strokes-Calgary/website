@@ -10,9 +10,6 @@ inclusive of LGBTQ+ swimmers and their supporters, dedicated to the master swim
 program philosophy of “fun and fitness for life” in an environment that is both
 positive and supportive.
 
-# Open House
-Join us for a free hours of swimming at MNP Community & Sports Centre on Sunday, September 10, 2023 @ 6pm. There will be coaches on decks for a lite workout, and we may even have some pool games planned. Greeters will be at the entrance guiding people into the facility if it's your first time.
-
 # Swim Practices
 
 Swim practices are at:
@@ -21,11 +18,11 @@ Swim practices are at:
 
 Check the Swim [Schedule](Schedule.md) for up to date swims.
 
-For any new swimmers, please send an email [info@differentstrokescalgary.org](mailto:info@differentstrokescalgary.org) before showing up at the facility.
+:heavy_exclamation_mark: :heavy_exclamation_mark: For any new swimmers, please send an email [info@differentstrokescalgary.org](mailto:info@differentstrokescalgary.org) before showing up at the facility.
 
 ## Fees
 
-All members must register using the registration [form](https://form.jotform.com/232134546643252).
+All members must register using the registration [:page_facing_up: form](https://form.jotform.com/232134546643252).
 
 - An annual pass for the 2023-2024 season is $350 (includes Swim AB registration, GST). This pass covers from September 2023 through August 2024.
 - Drop-in blocks of 10 for $144 (includes Swim AB, GST). 10 passes must be used within 12 months of purchase. Subsequent passes in the same season will be just $100.
