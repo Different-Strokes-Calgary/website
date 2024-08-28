@@ -30,3 +30,5 @@ All members must register using the registration [:page_facing_up: form](https:/
 
 FYI. The Swim Alberta/Canada fee collected by Swim Alberta includes club/swim/coach registration and insurance for our swim club.
 
+## Club Merchandise :shirt:
+Click [here](https://stores.freshbrandgear.com/Different_Strokes_Calgary/shop/home) for the new Merch Store!!
