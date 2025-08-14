@@ -24,7 +24,7 @@ DSC is a member of Swim Alberta (and of course FINA), as well as the Internation
 
 Every four years the Gay Games and/or the Outgames feature a five day swimming competition with participants from all around the world. Our past participation in these games were in Sydney 2002, Chicago and Montréal in 2006, and Copenhagen in 2010.
 
-Dan MacGregor still spends some of his time coaching the beginner swimmers and can still sometimes be seen in a swimsuit. Bill Culham is our current Head Coach and creates some pretty imaginative workouts that are fun to swim.
+Dan MacGregor still spends some of his time coaching the beginner swimmers and can still sometimes be seen in a swimsuit. Bill Culham is our current Head Coach and creates some pretty imaginative workouts that are fun to swim. Tammny Andersen has also joined us full time in the spring of 2025 and we welcome her enthusiam for her craft and creative workouts.
 
 The club has established a reputation as quite social with a number of fun events over the course of each swim season. DSC also helps raise funds in the community. Our past participation included a swim-a-thon in the fight against Breast Cancer, helping out with Small Change Big Changes and the AIDS fundraiser fashion show, Calgary Cares.
 
@@ -32,10 +32,14 @@ The club has established a reputation as quite social with a number of fun event
 
 Dan MacGregor is one of the founding members of the club and has been with the club since the inception. He still spends some of his time coaching the beginner swimmers and can still sometimes be seen in a swimsuit. Dan is a busy accountant by trade so you may notice him vanish here and there through March and April (tax time!) but we do our best to ensure swimmers are always looked after.
 
-William (Bill) Culham is our newest coach and started with our Different Strokes family in the 2017/2018 season. He’s a Level III NCCP coach, a Level V Master official, and a Skills Coach Assessor.
+William (Bill) Culham is our main coach and started with our Different Strokes family in the 2017/2018 season. He’s a Level III NCCP coach, a Level V Master official, and a Skills Coach Assessor.
 
 Originally from Cabri, Saskatchewan, his teaching and aquatic career has taken him to multiple provinces from Saskatchewan to the Yukon and finally here to Alberta. His various accomplishments include starting the Aquanauts (a summer club) in Lloydminster, President and coach for the St Paul summer club, instructed the Swim Alberta – “I Can Swim” program and was recognized as Swim Alberta’s Builder of the Year.
 
 Bill has also worked the Pan Pacific Swim Meets; head coached the Zone D Alberta Summer Games team and during the Mountain View Games; and coached accomplished athletes at the Commonwealth Games Trials on Vancouver Island.
 
 He continues to offer Official Clinics for the Red Deer Catalina and Red Deer Marlins, and the Ponoka Pool Sharks. The last six years, Bill has coached the Red Deer Masters – Silver Sharks. The Sharks have done well at Alberta Provincials, and World Masters Championships!
+
+Tammy Andersen is our newest coach and entered our roster in November 2022 and joined full time in spring of 2025. She has some 20 years of coaching experience and runs a triathlon workshop at the MNP centre as well. She's also a NCCP certified coach.
+
+
