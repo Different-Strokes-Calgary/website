@@ -8,12 +8,11 @@ Swim practices are at:
 - Killarney Aquatic & Recreation Centre:
 1919 29St SW ([see map](https://goo.gl/maps/7rUB9sq2K3D6pd5J7))
 
-## Winter Swim Times
- - Fri 6:00pm @ MNP Community & Sports Centre
+## Winter Swim Times (2025/2026)
  - Fri 7:30pm @ Killarney Aquatic & Recreation Centre
- - Sun 6:00pm @ MNP Community & Sports Centre
+ - Sat 7:00pm @ MNP Community & Sports Centre
 
-:star: There are no swims on long weekends. Times may change, check with the Swim [Schedule](Schedule) for up to date swims.
+:star: Note the change in scheduling at MNP this season. Due to rennovations times may change, please check with the Swim [Schedule](Schedule) for up to date swims.
 
 # About the Workouts
 
