@@ -30,7 +30,7 @@ The club has established a reputation as quite social with a number of fun event
 
 ## Coaches
 
-Dan MacGregor is one of the founding members of the club and has been with the club since the inception. He still spends some of his time coaching the beginner swimmers and can still sometimes be seen in a swimsuit. Dan is a busy accountant by trade so you may notice him vanish here and there through March and April (tax time!) but we do our best to ensure swimmers are always looked after.
+Dan MacGregor is one of the founding members of the club and has been with the club since the inception. He still spends some of his time coaching the beginner swimmers and can still sometimes be seen in a swimsuit. Dan is a busy accountant by trade so you may notice him vanish here and there through March and April (tax time!) but we do our best to ensure swimmers are always looked after. His continual activity through his retirement has awarded him the Swim Canada's Volunteer of the Year in 2024!! We're very proud of our Coach Dan.
 
 William (Bill) Culham is our main coach and started with our Different Strokes family in the 2017/2018 season. He’s a Level III NCCP coach, a Level V Master official, and a Skills Coach Assessor.
 
