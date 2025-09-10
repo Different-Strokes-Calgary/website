@@ -32,7 +32,7 @@ The club has established a reputation as quite social with a number of fun event
 
 Dan MacGregor is one of the founding members of the club and has been with the club since the inception. He still spends some of his time coaching the beginner swimmers and can still sometimes be seen in a swimsuit. Dan is a busy accountant by trade so you may notice him vanish here and there through March and April (tax time!) but we do our best to ensure swimmers are always looked after. His continual activity through his retirement has awarded him the Swim Canada's Volunteer of the Year in 2024!! We're very proud of our Coach Dan.
 
-William (Bill) Culham is our main coach and started with our Different Strokes family in the 2017/2018 season. He’s a Level III NCCP coach, a Level V Master official, and a Skills Coach Assessor.
+William (Bill) Culham started with our Different Strokes family in the 2017/2018 season. He’s a Level III NCCP coach, a Level V Master official, and a Skills Coach Assessor.
 
 Originally from Cabri, Saskatchewan, his teaching and aquatic career has taken him to multiple provinces from Saskatchewan to the Yukon and finally here to Alberta. His various accomplishments include starting the Aquanauts (a summer club) in Lloydminster, President and coach for the St Paul summer club, instructed the Swim Alberta – “I Can Swim” program and was recognized as Swim Alberta’s Builder of the Year.
 
@@ -40,6 +40,10 @@ Bill has also worked the Pan Pacific Swim Meets; head coached the Zone D Alberta
 
 He continues to offer Official Clinics for the Red Deer Catalina and Red Deer Marlins, and the Ponoka Pool Sharks. The last six years, Bill has coached the Red Deer Masters – Silver Sharks. The Sharks have done well at Alberta Provincials, and World Masters Championships!
 
-Tammy Andersen is our newest coach and entered our roster in November 2022 and joined full time in spring of 2025. She has some 20 years of coaching experience and runs a triathlon workshop at the MNP centre as well. She's also a NCCP certified coach.
+Tammy Andersen is our newest coach and entered our roster in November 2022 and joined full time in spring of 2025. She has been coaching for over 25 years, previously as the Head Coach of the Glenmore Seals Swim Club and the Okotoks Stingrays Summer Swim Club. She also worked as an assistant Coach with the Calgary Tritons and partnered with The City of Calgary in developing their Conditioning Swim Programs (youth and adult). She expanded her international knowledge by coaching Junior National Level Swimmers in Limburg Belgium while attending university and majoring in Education. Currently she is the Sprocket Coordinator and Junior 1 Lead Coach for Killarney Swim Club, as well as the head of the Swim Program for 3433 Sport Performance out of MNP. She is a certified Coach through Swim Canada and currently holds her level 201 - Trained while she continues to work towards her full 201 certification later this year. 
+
+Coming from a family of swimmers, Tammy enjoys focusing on the science of swimming. She believes every swimmer has the potential to improve no matter their current age or ability, and strives to provide individual feedback and correction on form. If you need someone more chipper than a wood mulcher, she's your gal! She is always ready to celebrate your wins (no matter how big or small) and help you learn from your setbacks.
+
+Working with Different Strokes has been one of the most rewarding endeavors of her career and she looks forward to laughing, teaching, swimming and chatting with every member of the team. 
 
 
