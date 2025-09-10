@@ -28,6 +28,8 @@ Dan MacGregor still spends some of his time coaching the beginner swimmers and c
 
 The club has established a reputation as quite social with a number of fun events over the course of each swim season. DSC also helps raise funds in the community. Our past participation included a swim-a-thon in the fight against Breast Cancer, helping out with Small Change Big Changes and the AIDS fundraiser fashion show, Calgary Cares.
 
+DSC is committed to fostering inclusive sports spaces where everyone has the opportunity to build confidence, community, and lifelong skills through swimming, regardless of gender identity. We unequivocally support the inclusion of trans athletes in both recreational and competitive swimming.
+
 ## Coaches
 
 Dan MacGregor is one of the founding members of the club and has been with the club since the inception. He still spends some of his time coaching the beginner swimmers and can still sometimes be seen in a swimsuit. Dan is a busy accountant by trade so you may notice him vanish here and there through March and April (tax time!) but we do our best to ensure swimmers are always looked after. His continual activity through his retirement has awarded him the Swim Canada's Volunteer of the Year in 2024!! We're very proud of our Coach Dan.
