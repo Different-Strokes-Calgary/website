@@ -21,9 +21,9 @@ Check the Swim [Schedule](Schedule.md) for up to date swims.
 ## New members
 
 New prospective members, there's currently a wait list for 2025-2026 season. When reaching out, please include answers to the following questions:
-1) What's your swimming ability (i.e., what swimming styles/strokes do you know?)
-2) What's your skill / cardio level (i.e., what's your time XX:XX/100m?)
-3) Are you part of the LGBTQ+ community or an ally?
+- What's your swimming ability (i.e., what swimming styles/strokes do you know?)
+- What's your skill / cardio level (i.e., what's your time XX:XX/100m?)
+- Are you part of the LGBTQ+ community or an ally?
 
 Please send an email [info@differentstrokescalgary.org](mailto:info@differentstrokescalgary.org) before showing up at the facility.
 
