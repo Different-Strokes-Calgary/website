@@ -18,11 +18,19 @@ Swim practices are at:
 
 Check the Swim [Schedule](Schedule.md) for up to date swims.
 
-:heavy_exclamation_mark: :heavy_exclamation_mark: For any new swimmers, please send an email [info@differentstrokescalgary.org](mailto:info@differentstrokescalgary.org) before showing up at the facility.
+## New members
+
+New prospective members, there's currently a wait list for 2025-2026 season. When reaching out, please include answers to the following questions:
+1) What's your swimming ability (i.e., what swimming styles/strokes do you know?)
+2) What's your skill / cardio level (i.e., what's your time XX:XX/100m?)
+3) Are you part of the LGBTQ+ community or an ally?
+
+Please send an email [info@differentstrokescalgary.org](mailto:info@differentstrokescalgary.org) before showing up at the facility.
+
 
 ## Fees
 
-All members must register using the registration [:page_facing_up: form](https://form.jotform.com/252254907553258).
+All members must register using the registration form included in all mailing list messages.
 
 - An annual pass for the 2025-2026 season is $380 (includes Swim AB registration, GST). This pass covers from September 2025 through August 2026.
 - Drop-in blocks of 10 for $169 (includes Swim AB, GST). 10 passes must be used within 12 months of purchase. Subsequent passes in the same season will be just $110.
