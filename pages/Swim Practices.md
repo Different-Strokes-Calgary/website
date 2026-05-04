@@ -24,7 +24,7 @@ A camera automatically starts and ends a parking session for you as you enter
 and exit the parking lot. If you need more time, you can pay (just before you leave) via the parking app or at a kiosk inside the building.
 
 Free Auxiliary parking is available at the Indigo Parking Lot #286 near the Elbow River Casino. Typically, the main lot becomes full
-during sport events hosted at MNP. Find more info here: https://mnpcentre.com/facility/parking/
+during sport events hosted at MNP. Find more info here: https://mnpcentre.com/facility/calgary-parking/
 
 # About the Workouts
 
