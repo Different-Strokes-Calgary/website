@@ -14,6 +14,18 @@ Swim practices are at:
 
 :star: Note the change in scheduling at MNP this season. Due to rennovations times may change, please check with the Swim [Schedule](Schedule) for up to date swims.
 
+## Parking at MNP Centre
+Parking is only free for the specified durations listed below. 
+- 3 hours free from 4:00 AM – 4:00 PM (Monday–Friday)
+- 2 hours free from 4:00 PM – 4:00 AM (Monday–Friday)
+- 2 hours free on weekends
+
+A camera automatically starts and ends a parking session for you as you enter
+and exit the parking lot. If you need more time, you can pay (just before you leave) via the parking app or at a kiosk inside the building.
+
+Free Auxiliary parking is available at the Indigo Parking Lot #286 near the Elbow River Casino. Typically, the main lot becomes full
+during sport events hosted at MNP. Find more info here: https://mnpcentre.com/facility/parking/
+
 # About the Workouts
 
 Different Strokes Calgary accommodates both recreational and competitive swimmers. Coaching is offered to assist with technique and fitness development. However, swimming at one’s own pace and comfort level is always encouraged.
