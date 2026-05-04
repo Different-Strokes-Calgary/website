@@ -18,6 +18,9 @@ Swim practices are at:
 
 Check the Swim [Schedule](Schedule.md) for up to date swims.
 
+> [!IMPORTANT]
+> Check parking rates at MNP here: https://mnpcentre.com/facility/calgary-parking/
+
 ## New members
 
 New prospective members, there's currently a wait list for 2025-2026 season. When reaching out, please include answers to the following questions:
