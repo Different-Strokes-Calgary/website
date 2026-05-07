@@ -7,13 +7,19 @@ Swim practices are at:
 2225 Macleod Trail South ([see map](https://goo.gl/maps/F52emnWt6MQroyK18))
 - Killarney Aquatic & Recreation Centre:
 1919 29St SW ([see map](https://goo.gl/maps/7rUB9sq2K3D6pd5J7))
+- Bowview Outdoor Pool:
+1910 6 Ave NW ([see map](https://maps.app.goo.gl/eWu4FM17yvqdGVdD8))
 
-## Winter Swim Times (2025/2026)
- - Fri 7:30pm @ Killarney Aquatic & Recreation Centre
- - Sat 7:00pm @ MNP Community & Sports Centre
+## Winter Swim Times (Jan-Jun 2026)
+ - Fri 6:00pm @ MNP Community & Sports Centre (Beginners)
+ - Fri 7:30pm @ Killarney Aquatic & Recreation Centre (Intermediate/Advance)
+ - Sun 6:00pm @ MNP Community & Sports Centre (All levels)
 
-:star: Note the change in scheduling at MNP this season. Due to rennovations times may change, please check with the Swim [Schedule](Schedule) for up to date swims.
-
+## Summer Swim Times (Jul-Aug 2026)
+ - Wed 6:00pm @ MNP Community & Sports Centre (Intermediate/Advance)
+ - Fri 6:00pm @ MNP Community & Sports Centre (All levels)
+ - Sun 9:00am @ Bowview Outdoor Pool (All levels)
+   
 ## Parking at MNP Centre
 Parking is only free for the specified durations listed below. 
 - 3 hours free from 4:00 AM – 4:00 PM (Monday–Friday)
