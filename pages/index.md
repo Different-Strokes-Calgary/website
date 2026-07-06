@@ -14,7 +14,7 @@ positive and supportive.
 
 Swim practices are at:
 - MNP Community & Sports Centre (formerly Repsol Sports Centre), 2225 Macleod Trail South
-- Killarney Aquatic & Recreation Centre, 1919 29St SW
+- Bowview Outdoor Pool, 1910 6th Ave NW
 
 Check the Swim [Schedule](Schedule.md) for up to date swims.
 
